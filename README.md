@@ -6,12 +6,12 @@ Users will be able to:
    register/log in to their account,
    Search their area for bars/brewpubs,
    Rate the location,
-   Leave a comment,
+   Leave a comment. All content will be stored in a database. 
    
 Technologies used:
    React -
    JSX -
-   Precss -
+   Postcss -
    Sequelize -
    Express -
-   Node.js 
+   Node.js - hjs webpack - Google Maps API
